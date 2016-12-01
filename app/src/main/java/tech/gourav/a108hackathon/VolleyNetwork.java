@@ -12,7 +12,7 @@ public class VolleyNetwork {
     private RequestQueue mRequestQueue;
     private static Context mCtx;
 
-    private VolleyNetwork(Context context) {
+    public VolleyNetwork(Context context) {
         mCtx = context;
         mRequestQueue = getRequestQueue();
     }

@@ -1,0 +1,7 @@
+#Sat Nov 26 12:00:31 IST 2016
+base.0=/home/gourav/AndroidStudioProjects/108hackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32810edcfa84a514c61cc5b071ca93d21b914ab6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/gourav/AndroidStudioProjects/108hackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6b8cd5e9b1aff930036f40360f15a37bf7f9430/classes.dex
+base.1=/home/gourav/AndroidStudioProjects/108hackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6b8cd5e9b1aff930036f40360f15a37bf7f9430
+file.0=/home/gourav/AndroidStudioProjects/108hackathon/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32810edcfa84a514c61cc5b071ca93d21b914ab6/classes.dex
